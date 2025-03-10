@@ -130,7 +130,7 @@ function Login() {
           </form>
         </div>
 
-        <ToastContainer className="mt-12" />
+        
       </div>
     </>
   );
